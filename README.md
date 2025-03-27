@@ -27,3 +27,5 @@ Ferramenta para conversão automatizada de arquivos Excel (XLS/XLSX) para PDF us
 1. Execute o script:
 ```bash
 python excel_to_pdf.py
+
+
